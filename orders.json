@@ -1,0 +1,9 @@
+{
+  "_id": "4532d2e699ac36013",
+  "userId": "Product 1",
+  "orderDate": "2020-08-23"
+  "total": 570000,
+  "paymentMethod": "Paypal" or "Credit Card",
+  "orderStatus" : "Completed"  or "Incompleted" or "Canceled"
+   "paymentStatus" : "Paid"
+}

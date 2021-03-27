@@ -1,0 +1,8 @@
+{
+  "_id": "6454363643636346",
+  "name": "John",
+  "lastName": "John",
+  "email": "user@example.com",
+  "isActive": true,
+  "isAdmin": true
+}

@@ -1,0 +1,8 @@
+{
+  "_id": "6432d2e699ac36013",
+  "name": "Product 1",
+  "details": "lorem ipsum",
+  "price": 450000,
+  "image": "/images/p2.jpg",
+  "isAvailable": true
+}
